@@ -1,0 +1,59 @@
+body {
+  background-color: #999;
+}
+
+.canvas {
+  width: 900px;
+  height: 506px;
+  margin: 0 auto;
+  border: 1px solid #000;
+  background-color: white;
+}
+
+.square_gray {
+  width: 19px;
+  height: 91px;
+  background-color: #555;
+}
+
+.square_yellow {
+  width: 70px;
+  height: 70px;
+  background-color: #ebae06;
+}
+.square_black {
+  width: 585px;
+  height: 90px;
+  background-color: #000;
+}
+.square_green {
+  width: 100px;
+  height: 110px;
+  background-color: #006e26;
+}
+.circle_yellow {
+  width: 40px;
+  height: 40px;
+  background-color: #ebae06;
+  border-radius: 100px;
+}
+.square_orange {
+  width: 123px;
+  height: 12px;
+  background-color: #db3c10;
+}
+.square_blue {
+  width: 237px;
+  height: 170px;
+  background-color: #001472;
+}
+.square_red {
+  width: 37px;
+  height: 135px;
+  background-color: #a70000;
+}
+.square_pink {
+  width: 37px;
+  height: 86px;
+  background-color: #eea4b9;
+}
